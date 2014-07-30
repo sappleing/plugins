@@ -1,0 +1,4 @@
+<plugin>
+  <name>unboxing</name>
+  <classname>unboxing.plugin.Unboxing</classname>
+</plugin>
